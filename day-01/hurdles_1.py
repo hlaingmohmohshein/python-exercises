@@ -1,0 +1,20 @@
+# def turn_right():
+#     turn_left()
+#     turn_left()
+#     turn_left()
+# def dump():
+#     move()
+#     turn_left()
+#     move()
+#     turn_right()
+#     move()
+#     turn_right()
+#     move()
+#     turn_left()
+# for loop in range(6):
+#     dump()
+#     dump()
+#     dump()
+#     dump()
+#     dump()
+#     dump()
